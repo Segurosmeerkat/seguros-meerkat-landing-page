@@ -1,0 +1,1 @@
+Estos son solo ejemplos básicos para empezar. Puedes personalizar el contenido y el diseño según tus necesidades y preferencias. Recuerda que todos estos archivos deben ser subidos a tu repositorio de GitHub en la estructura de carpetas adecuada. Una vez que hayas subido los archivos, GitHub Pages se encargará de publicar tu landing page en "seguros-meerkat.com". 
